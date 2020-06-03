@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\Юра\Desktop\Курсак\BankCursova2\BankCursova2\Client.cpp(367): warning C4715: 'Client::atmCheck': not all control paths return a value
+  ATM.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  BankCursova2.vcxproj -> C:\Users\Юра\Desktop\Курсак\BankCursova2\Debug\BankCursova2.exe

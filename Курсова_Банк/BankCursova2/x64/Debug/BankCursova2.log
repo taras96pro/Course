@@ -1,0 +1,31 @@
+﻿  ATM.cpp
+  Bank.cpp
+  Card.cpp
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\Card.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Choise.cpp
+  Client.cpp
+  Deposit.cpp
+  Employee.cpp
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\Card.cpp(43,6): warning C4101: x: неиспользованная локальная переменная
+  MyForm.cpp
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\Employee.cpp(32,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\MyForm1.h(234,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm1.cpp
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\MyForm1.h(233,7): warning C4101: x: неиспользованная локальная переменная
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\MyForm1.h(234,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm2.cpp
+  MyForm3.cpp
+  MyForm4.cpp
+  MyForm5.cpp
+  MyForm6.cpp
+  Operations.cpp
+  Создание кода...
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\MyForm1.h(233,7): warning C4101: x: неиспользованная локальная переменная
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\Operations.cpp(61): warning C4715: Operations::credit: значение возвращается не при всех путях выполнения
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\Operations.cpp(98): warning C4715: Operations::deposit: значение возвращается не при всех путях выполнения
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\Employee.cpp(44): warning C4715: Employee::operation: значение возвращается не при всех путях выполнения
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\Client.cpp(367): warning C4715: Client::atmCheck: значение возвращается не при всех путях выполнения
+F:\Users\DHPC\Робочий стіл\Курсова_Банк\BankCursova2\Bank.cpp(43): warning C4700: использована неинициализированная локальная переменная "money"
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  ATM.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  BankCursova2.vcxproj -> F:\Users\DHPC\Робочий стіл\Курсова_Банк\x64\Debug\BankCursova2.exe
